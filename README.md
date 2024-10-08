@@ -1,4 +1,4 @@
-# MyLibrary-E-Library-
+# MyLibrary-E-Library
 A collection of files for a library management system, including HTML, CSS, and other resources...
 
 
